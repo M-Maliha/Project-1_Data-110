@@ -1,5 +1,5 @@
 # Project-1_Data-110
-# DATA 110 Project​
+​
 ​
 This project explores a dataset using basic data visualization techniques.​
 ​
